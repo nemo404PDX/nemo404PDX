@@ -1,6 +1,6 @@
 # nemo404PDX
 
-[![MasterHead](https://github.com/nemo404PDX/nemo404PDX/blob/master/MasterHead.png)](https://github.com/nemo404PDX)
+[![MasterHead](https://github.com/nemo404PDX/nemo404PDX/blob/master/Head.png)](https://github.com/nemo404PDX)
 #
 <h3 align="center">A passionate Full-Stack Developer from the Pacific Northwest</h3>
 
