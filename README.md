@@ -2,7 +2,7 @@
 
 <h3 align="center">Systems Architect • AI Tooling • Workflow Engineering</h3>
 
-[![MasterHead](https://github.com/nemo404PDX/nemo404PDX/blob/master/Head.png)](https://github.com/nemo404PDX)
+[![MasterHead](https://github.com/nemo404PDX/nemo404PDX/blob/master/Head02.png)](https://github.com/nemo404PDX)
 
 ## About
 
