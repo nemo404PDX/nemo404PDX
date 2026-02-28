@@ -1,8 +1,28 @@
-# nemo404PDX
+<h1 align="center" style="color: #FF69B4;"> NEMO404PDX </h1>
+
+<h3 align="center">Systems Architect • AI Tooling • Workflow Engineering</h3>
 
 [![MasterHead](https://github.com/nemo404PDX/nemo404PDX/blob/master/Head.png)](https://github.com/nemo404PDX)
-#
-<h3 align="center">A passionate Full-Stack Developer from the Pacific Northwest</h3>
+
+## About
+
+Full-stack developer focused on:
+
+- AI-assisted development systems  
+- RAG infrastructure & local model orchestration  
+- Automation pipelines & workflow tooling  
+- Systems-level thinking over feature churn  
+
+## Current Focus
+
+- Building modular AI tooling
+- Experimenting with model orchestration
+- Exploring cognitive DSL / execution frameworks
+- Designing repeatable dev workflows
+
+## Philosophy
+
+Ship. Refine. Systemize.
 
 <br  />
 <br  />
@@ -16,18 +36,3 @@
 
 </div>
 
-
-<!--
-**nemo404PDX/nemo404PDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
