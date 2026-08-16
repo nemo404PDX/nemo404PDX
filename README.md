@@ -13,6 +13,15 @@ Traces data flow, maps friction points, and ships executable glue code instead o
 - Workflow automation (Python/Flask, PowerShell/Bash, Excel/CSV calculators)
 - Network bridging & tunneling (ngrok, local inference routing, proxy middleware)
 
+## Field Infrastructure & Logistics
+**Combat Support Hospital | Signal Operations Lead (E5/E7 Equivalent)**
+- Managed hybrid network infrastructure: MC4 medical data systems, satellite comms, and TACSAT/SINCGARS tactical radios ensuring continuous data flow in high-latency environments.
+- Executive stakeholder management: Led daily operational briefings with Commanders, First Sergeants, and Sergeant Majors; translated technical constraints into actionable risk mitigation strategies.
+- Security compliance & escalation: Identified critical vulnerabilities (unsecured Secret network access by senior staff); bypassed local chain of command to escalate directly to higher SIGO, resolving systemic risk and earning Meritorious Service Medal (MSM).
+- Team leadership: Directed E5/Specialist technicians in IT account management, system lockouts, and hardware troubleshooting under high-pressure field conditions.
+
+**Decorations & Qualifications:** MSM, Presidential Unit Citation, Foreign Jump Wings, US Army Parachutist Badge, Driver/Team Sergeant Badge, Secret Clearance (Former)
+
 ## Signal Artifacts
 | Project | Mechanism | Status |
 |---------|-----------|--------|
