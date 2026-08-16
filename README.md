@@ -1,29 +1,27 @@
-<h1 align="center" style="color: #FF69B4;"> NEMO404PDX </h1>
+![Banner](https://raw.githubusercontent.com/nemo404PDX/nemo404PDX/main/banner.png)
 
-<h3 align="center">Systems Architect • AI Tooling • Workflow Engineering</h3>
+# nemo404PDX
+Operations Automation | System Integration | Workflow Scripting
 
-[![MasterHead](https://github.com/nemo404PDX/nemo404PDX/blob/master/Head02.png)](https://github.com/nemo404PDX)
+## Focus
+Rapid deployment of functional bridges between disconnected systems. 
+Traces data flow, maps friction points, and ships executable glue code instead of framework theater.
 
-## About
+## Core Capabilities
+- API translation & payload reformatting (REST, JSON, OpenAI-compatible)
+- OS-level integration (Windows Registry, Linux/macOS config paths, AppContainer isolation)
+- Workflow automation (Python/Flask, PowerShell/Bash, Excel/CSV calculators)
+- Network bridging & tunneling (ngrok, local inference routing, proxy middleware)
 
-Full-stack developer focused on:
+## Signal Artifacts
+| Project | Mechanism | Status |
+|---------|-----------|--------|
+| [Apollo AI → LM Studio Proxy](https://github.com/nemo404PDX/ApolloAiLmStudioProxy) | Flask middleware bridging iOS client to local LLM inference via ngrok tunneling | Active |
+| [Edge SpeechOneCore Eva Injection](https://github.com/nemo404PDX/MicrosoftEdge-SpeechOneCore-Eva) | Registry injection exposing Cortana TTS engine to Edge Read Aloud | Reference |
 
-- AI-assisted development systems  
-- RAG infrastructure & local model orchestration  
-- Automation pipelines & workflow tooling  
-- Systems-level thinking over feature churn  
+## Stack & Tools
+Python, Flask, PowerShell/Bash, AutoCAD Lisp, Excel/CSV automation, ngrok, REST APIs, JSON/XML parsing
 
-## Current Focus
-
-- Building modular AI tooling
-- Experimenting with model orchestration
-- Exploring cognitive DSL / execution frameworks
-- Designing repeatable dev workflows
-
-## Philosophy
-
-Ship. Refine. Systemize.
-
-<br  />
-
-<br  />
+## Availability
+Open to operations automation, logistics coordination, and technical integration roles. 
+Focus on throughput optimization over process compliance.
