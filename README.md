@@ -34,6 +34,7 @@ My work spans cross-platform applications, local AI infrastructure, deterministi
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Apollo AI → LM Studio Proxy](https://github.com/nemo404PDX/ApolloAiLmStudioProxy)                | Flask middleware connecting an iOS AI client to local LLM inference through an OpenAI-compatible interface and remote tunneling | Active    |
 | [Edge SpeechOneCore Eva Injection](https://github.com/nemo404PDX/MicrosoftEdge-SpeechOneCore-Eva) | Windows Registry integration exposing the Eva OneCore TTS voice to Microsoft Edge Read Aloud                                    | Reference |
+| [docker-pocket-tts](https://github.com/nemo404PDX/docker-pocket-tts) | A self-hosted, OpenAI-compatible TTS server built on Kyutai Pocket TTS. Runs on CPU, streams audio, and accepts custom voice files. Designed to be deployed as a Docker container with data (models / voices) mounted from the host. | Active |
 
 ## Stack & Tools
 
