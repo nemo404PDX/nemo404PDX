@@ -45,3 +45,6 @@ Python, Flask, PowerShell, Bash, REST APIs, JSON/XML, Git, Linux, Windows, macOS
 Currently developing cross-platform software, deterministic tools, and AI-assisted systems with an emphasis on practical, inspectable implementations.
 
 Open to software development, technical integration, automation, and systems-oriented opportunities.
+
+---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nemo404PDX&layout=compact&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=nemo404PDX&layout=compact&langs_count=8&theme=dark_github)
