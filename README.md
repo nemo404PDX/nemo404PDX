@@ -48,4 +48,4 @@ Currently developing cross-platform software, deterministic tools, and AI-assist
 Open to software development, technical integration, automation, and systems-oriented opportunities.
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nemo404PDX&layout=compact&langs_count=8&theme=dark_github)](https://github.com/nemo404PDX?tab=repositories)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nemo404PDX&layout=compact&langs_count=20&theme=dark_github)](https://github.com/nemo404PDX?tab=repositories)
